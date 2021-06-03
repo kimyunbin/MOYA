@@ -5,7 +5,7 @@
 
 > 영화 정보 기반 추천 서비스 (싸피 5기 최종 프로젝트)
 
-### 🏠 [Github]()   🎬[Demo 시연영상](https://www.youtube.com/watch?v=9uv36iMI6j8&ab_channel=%EA%B9%80%EC%9C%A4%EB%B9%88)  🎤 [Presentation](https://drive.google.com/file/d/1wGFPR4kyl5CxjFnAw65OG3uJsZz08rtn/view)
+### 🏠 [배포사이트](https://swhan9404.github.io/MoyaMoya/#/)   🎬[Demo 시연영상](https://www.youtube.com/watch?v=9uv36iMI6j8&ab_channel=%EA%B9%80%EC%9C%A4%EB%B9%88)  🎤 [Presentation](https://drive.google.com/file/d/1wGFPR4kyl5CxjFnAw65OG3uJsZz08rtn/view)
 
 <br>
 
@@ -68,6 +68,8 @@
 
 ## 🔍 Overview
 
+> gif 용량이 매우매우 큰 관계로 데모영상을 추천드립니다. 
+
 ### 시작화면
 
 ![start](README.assets/start.gif)
@@ -126,7 +128,7 @@ $ npm run serve
 
 
 
-## 프로젝트간 이슈 정리
+## ✍🏻프로젝트간 이슈 정리
 
 ### [프로젝트기록장](projectrecord.md)
 
