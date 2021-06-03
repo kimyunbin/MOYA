@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to MOYA👋</h1>
 
 
+
 ![동적인 페이지](README.assets/main.gif)
 
 > 영화 정보 기반 추천 서비스 (싸피 5기 최종 프로젝트)
